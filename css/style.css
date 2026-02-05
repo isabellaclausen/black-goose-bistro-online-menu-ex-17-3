@@ -27,7 +27,9 @@ section {
   padding: 20px;
   border: 1px dotted maroon;
   width: 240px;
+    flex: auto;
 }
+
 .title {
   background-color: #783F27;
   color: #F9AB33;
@@ -61,4 +63,9 @@ section{
 
 .price{
   margin-top: auto;
+}
+
+
+
+.photo {order: -1;
 }
